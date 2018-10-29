@@ -1,0 +1,127 @@
+#wpja-application-form
+{
+    border: 0;
+    width: 665px;
+    margin: 0 auto;
+    color: black;
+}
+
+#wpja-identification
+{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    width: 500px;
+}
+
+#wpja-personal
+{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #7ba4e5;
+    width: 500px;
+}
+
+#wpja-work
+{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #ef6969;
+    width: 500px;
+}
+
+#wpja-driving_licence_div
+{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #efae69;
+    width: 500px;
+}
+
+#wpja-attachments
+{
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #a4ef6b;
+    width: 500px;
+}
+
+#wpja-attach-identification
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: aquamarine;
+}
+
+#wpja-driving
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: #efae69;
+}
+
+#wpja-education_certs
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: #eef47c;
+}
+
+#wpja-work_certs
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: #ef6969;
+}
+
+#wpja-police_cert
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: #9295e5;
+}
+
+.wpja-input
+{
+    min-width: 260px;
+    max-width: 265px;
+    margin-bottom: 10px;
+}
+
+.wpja-width-reset
+{
+    width: auto;
+    margin-bottom: 10px;
+}
+
+#wpja-addVehicleButton
+{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.wpja-driving-categories
+{
+    margin-left: 4px;
+    margin-right: 10px;
+}
