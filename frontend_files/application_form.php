@@ -31,7 +31,7 @@ $string .= '<div id="wpja-identification">
       <label>Gender*</label>
       <input class="wpja-width-reset" checked type="radio" name="gender" value="male"> Male <input class="wpja-width-reset" type="radio" name="gender" value="female"> Female<br />
       <label for="address">Address*</label>
-      <input class="wpja-input" id="address" type="text" name="address" maxlength="100">
+      <input class="wpja-input" id="address" type="text" name="address" maxlength="100" required>
       <label for="town">Town*</label>
       <input class="wpja-input" id="town" required type="text" name="town" maxlength="100">
       <label for="postcode">Postcode*</label>
